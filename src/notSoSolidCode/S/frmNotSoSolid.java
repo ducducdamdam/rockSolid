@@ -1,8 +1,5 @@
 package notSoSolidCode.S;
 
-import javax.swing.JButton;
-
-
 public class frmNotSoSolid extends javax.swing.JFrame {
     
     public frmNotSoSolid() {

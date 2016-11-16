@@ -1,7 +1,5 @@
 package solidCode.O;
 
-import solidCode.S.clSolidEventController;
-
 public class clMain {
     public static void main(String[] Args){
         clCirculo circulo = new clCirculo();
